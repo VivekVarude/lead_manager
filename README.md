@@ -1,7 +1,15 @@
-# lead_management
+##Overview
 
-A new Flutter project.
+The Mini Lead Manager App is a simple CRM-style lead tracking application built using Flutter, Riverpod (State Management), and SQLite (Local Storage).
 
+It allows users to:
+1.Add new leads
+2.View all leads
+3.Update lead status (New → Contacted → Converted / Lost)
+4.Edit / Delete leads
+5.Filter leads by status
+
+This project is developed as part of the Sankar Group Flutter Internship Assignment.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
