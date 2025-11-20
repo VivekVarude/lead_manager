@@ -10,6 +10,10 @@ It allows users to:
 5.Filter leads by status
 
 This project is developed as part of the Sankar Group Flutter Internship Assignment.
+
+[Download Latest APK](https://github.com/VivekVarude/lead_manager/releases/latest)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
